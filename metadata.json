@@ -1,0 +1,8 @@
+{
+  "name": "Duhok AI",
+  "description": "Professional high-accuracy Kurdish Badini translation tool with TTS and image recognition.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
